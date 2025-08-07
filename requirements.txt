@@ -1,0 +1,8 @@
+markitdown
+transformers>=4.46.0
+torch>=2.0.0
+sentencepiece>=0.1.99  # Required for some transformer models 
+openai>=1.0.0  # For GPT-4o-mini API
+scikit-learn>=1.3.0  # For clustering algorithms
+numpy>=1.24.0  # For numerical operations
+sentence-transformers>=2.2.0  # For text embeddings

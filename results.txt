@@ -1,0 +1,97 @@
+COMP4434
+original:
+Precision: 18.86%
+Recall:    60.80%
+F1-score:  28.79%
+improved:
+Precision: 60.34%
+Recall:    74.47%
+F1-score:  66.67%
+
+
+COMP1433
+original:
+Precision: 25.30%
+Recall:    38.89%
+F1-score:  30.66%
+improved:
+Precision: 60.87%
+Recall:    53.85%
+F1-score:  57.14%
+
+
+COMP2011
+original:
+Precision: 63.64%
+Recall:    33.33%
+F1-score:  43.75%
+improved:
+Precision: 68.42%
+Recall:    36.11%
+F1-score:  47.27%
+
+
+COMP2013
+original:
+Precision: 67.86%
+Recall:    39.58%
+F1-score:  50.00%
+improved:
+Precision: 80.00%
+Recall:    27.91%
+F1-score:  41.38%
+
+
+COMP2021
+original:
+Precision: 72.22%
+Recall:    43.33%
+F1-score:  54.17%
+improved:
+Precision: 78.95%
+Recall:    48.39%
+F1-score:  60.00%
+
+
+COMP2411:
+original:
+Precision: 48.39%
+Recall:    8.72%
+F1-score:  14.78%
+improved:
+Precision: 75.00%
+Recall:    7.19%
+F1-score:  13.11%
+
+
+COMP4423
+original:
+Precision: 40.00%
+Recall:    14.81%
+F1-score:  21.62%
+improved:
+Precision: 93.33%
+Recall:    43.75%
+F1-score:  59.57%
+
+
+COMP4431
+original:
+Precision: 38.10%
+Recall:    34.04%
+F1-score:  35.96%
+improved:
+Precision: 98.23%
+Recall:    15.79%
+F1-score:  27.27%
+
+
+COMP4432
+original:
+Precision: 58.12%
+Recall:    72.34%
+F1-score:  64.45%
+improved:
+Precision: 82.14%
+Recall:    82.14%
+F1-score:  82.14%
